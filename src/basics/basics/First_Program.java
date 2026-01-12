@@ -1,4 +1,4 @@
-package src;
+package src.basics.basics;
 
 public class First_Program {
     public static void main(String[] args) {

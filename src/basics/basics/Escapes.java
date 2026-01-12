@@ -1,4 +1,4 @@
-package src;
+package src.basics.basics;
 //Escape sequences
 public class Escapes {
     public static void main(String[] args) {
