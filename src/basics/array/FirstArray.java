@@ -24,6 +24,13 @@ public class FirstArray {
             index++;
         }
 
+        String[] strArr = new String[4];
+        strArr[0] = "my Array";
+        System.out.println(strArr[0]);
+
+        String[] newStrArr = {"first", "second", "third"};
+        System.out.println(newStrArr.length);
+
 
     }
 }
